@@ -1,0 +1,71 @@
+body{
+  background-color: #fff;
+}
+.main{
+    background-color: #fff;
+}
+
+p#lv-bullet{
+  margin-bottom: 0px;
+  padding-left: 10px;
+}
+
+p#lv-about{
+  padding-top: 10px;
+}
+
+p#lv-copyright{
+  font-style: italic;
+}
+
+h4#lv-project-title{
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.lv-container-bg-1{
+	background-color:#89CAD4;
+    color: #000;
+}
+
+.lv-container-bg-2{
+	background-color:#fff;
+    color: #000;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.lv-container-bg-trans{
+  background-color:rgba(0,0,0,0.5);
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus,
+a:focus {
+  outline: none;
+}
+
+a:link {
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #000;
+    text-decoration: underline;
+}
