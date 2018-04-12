@@ -3,6 +3,7 @@ body{
 }
 .main{
     background-color: #fff;
+    font-family: 'Nunito', sans-serif;
 }
 
 p#lv-bullet{
@@ -23,6 +24,11 @@ h4#lv-project-title{
   margin-bottom: 0px;
 }
 
+h5{
+  padding-top: 10px;
+  margin-bottom: 0px;
+}
+
 .lv-container-bg-1{
 	background-color:#89CAD4;
     color: #000;
@@ -31,10 +37,10 @@ h4#lv-project-title{
 .lv-container-bg-2{
 	background-color:#fff;
     color: #000;
-    padding-left: 80px;
-    padding-right: 80px;
-    padding-top: 10px;
-    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .lv-container-bg-trans{
@@ -50,22 +56,22 @@ a:focus {
 }
 
 a:link {
-    color: #000;
+    color: #3c92c5;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: normal;
 }
 
 a:visited {
-    color: #000;
+    color: #3c92c5;
     text-decoration: none;
 }
 
 a:hover {
-    color: #000;
+    color: #3c92c5;
     text-decoration: underline;
 }
 
 a:active {
-    color: #000;
+    color: #3c92c5;
     text-decoration: underline;
 }
