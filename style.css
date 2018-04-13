@@ -47,6 +47,65 @@ h5{
   background-color:rgba(0,0,0,0.5);
 }
 
+.col-3.head{
+  background-color: rgb(206, 206, 206);
+  border-bottom: #000;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-top: #000;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-left: #000;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right: #000;
+  border-right-style: solid;
+  border-right-width: 1px;
+  font-weight: bold;
+  padding-bottom: 0px;
+  padding-top: 12px;
+  padding-left: 14px;
+  padding-right: 0px;
+  position: relative;
+}
+
+.col-6.head{
+  background-color: rgb(206, 206, 206);
+  border-bottom: #000;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-top: #000;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-left: #000;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right: #000;
+  border-right-style: solid;
+  border-right-width: 1px;
+  font-weight: bold;
+  padding-bottom: 0px;
+  padding-top: 12px;
+  padding-left: 14px;
+  padding-right: 0px;
+  position: relative;
+}
+
+.col-3.content{
+  border-bottom: #000;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-top: #000;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-left: #000;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right: #000;
+  border-right-style: solid;
+  border-right-width: 1px;
+}
+
 input:focus,
 select:focus,
 textarea:focus,
